@@ -58,6 +58,10 @@ Customer's Demographic Columns – gender, age range, and if they have partners 
 
 ![image](https://user-images.githubusercontent.com/103538049/211822124-9bbaf3ab-622a-4ac5-8944-5ba3a031a35d.png)
 
+1. Majority of the customers who moved out were having Electronic Check as Payment Method and others who opted for Credit-Card automatic transfer / Bank Automatic        Transfer and Mailed Check as Payment Method were less likely to switch.
+2. Fiber optic service was choosen by a lot of customers and a high churn rate among these customers. This could mean an issue with the Fiber optic service which and      its dissatisfaction among customers.
+3. Customers who opted for DSL service are greater in mumber and have less churn rate compared to Fibre optic service
+4. Customers without dependents are more likely to churn
 
 ![image](https://user-images.githubusercontent.com/103538049/211822580-78f9b534-26de-4dc1-bb47-73f9a4c32fda.png)
 
