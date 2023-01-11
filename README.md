@@ -61,3 +61,9 @@ Customer's Demographic Columns – gender, age range, and if they have partners 
 
 ![image](https://user-images.githubusercontent.com/103538049/211822580-78f9b534-26de-4dc1-bb47-73f9a4c32fda.png)
 
+
+![image](https://user-images.githubusercontent.com/103538049/211824267-1c247c0d-9420-4ebc-a380-beca78f81c0f.png)
+
+
+![image](https://user-images.githubusercontent.com/103538049/211824522-c46cd587-baf5-4c5e-a9e2-714b9ae8d0f9.png)
+
