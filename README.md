@@ -99,5 +99,35 @@ Customer's Demographic Columns – gender, age range, and if they have partners 
 7. There's a small fraction of customers who are more likely to churn and it's been found that they don't have a phone service.
 8. High Monthly Charges are also one of a reason which makes Customers more likely to churn
 9. High Total Charges are also one of a reason which makes Customers more likely to churn,there might be an issue with pricing system which needs to addressed
-10. 
 
+# Feature engineering
+
+Before building the moels, it is important to check the data distribution. Because the numerical features are distributed over different value ranges, we will use standard scalar to scale to same range.
+
+![image](https://user-images.githubusercontent.com/103538049/211831801-29076548-6308-44f6-90b8-f58cf4320cfc.png)
+
+
+# Machine Learning Models
+
+
+SUPPORT VECTOR CLASSIFIER (SVC)
+
+![image](https://user-images.githubusercontent.com/103538049/211832115-103f14a4-1220-4d25-99b0-cce0abea7da8.png)
+
+
+Random Forest
+
+![image](https://user-images.githubusercontent.com/103538049/211832486-d8ed41bb-4f44-491a-aab9-408ed2d21aa0.png)
+
+
+Logistic Regression 
+
+![image](https://user-images.githubusercontent.com/103538049/211832994-9b04a951-7397-43d8-96cf-1c2acd556570.png)
+
+
+Gradient Descent Classifier
+
+![image](https://user-images.githubusercontent.com/103538049/211833293-d6bce6be-5ae4-4444-ac5d-c547fcfe724d.png)
+
+
+# From the Above models, we can say that the Random Forest Model performs much better than the other models.
