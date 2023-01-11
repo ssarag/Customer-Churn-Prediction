@@ -46,7 +46,8 @@ Customer's Demographic Columns – gender, age range, and if they have partners 
 
 # Exploratory Data Analysis and data Visualization 
 
-![image](https://user-images.githubusercontent.com/103538049/211819245-249a32eb-d55e-4109-8d8f-250aed4b7b5c.png)
+![image](https://user-images.githubusercontent.com/103538049/211820040-2e2332cd-005a-4873-9d61-a28d07bcf6f8.png)
+
 
 
 1. 26.6% of current customers switched to another firm
