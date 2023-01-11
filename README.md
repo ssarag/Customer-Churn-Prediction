@@ -54,3 +54,10 @@ Customer's Demographic Columns – gender, age range, and if they have partners 
 2. There are 49.5% females and 50.5% males.
 3. There's almost no difference between the gender who churned, as both men and women are churn in equal ratio.
 
+
+
+![image](https://user-images.githubusercontent.com/103538049/211822124-9bbaf3ab-622a-4ac5-8944-5ba3a031a35d.png)
+
+
+![image](https://user-images.githubusercontent.com/103538049/211822580-78f9b534-26de-4dc1-bb47-73f9a4c32fda.png)
+
