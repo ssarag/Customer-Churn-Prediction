@@ -110,22 +110,26 @@ Before building the moels, it is important to check the data distribution. Becau
 # Machine Learning Models
 
 
-# *SUPPORT VECTOR CLASSIFIER (SVC)
+# SUPPORT VECTOR CLASSIFIER (SVC)
 
 ![image](https://user-images.githubusercontent.com/103538049/211832115-103f14a4-1220-4d25-99b0-cce0abea7da8.png)
 
 
-Random Forest
+# Random Forest
+
 
 ![image](https://user-images.githubusercontent.com/103538049/211832486-d8ed41bb-4f44-491a-aab9-408ed2d21aa0.png)
 
 
-Logistic Regression 
+# Logistic Regression 
+
 
 ![image](https://user-images.githubusercontent.com/103538049/211832994-9b04a951-7397-43d8-96cf-1c2acd556570.png)
 
 
-Gradient Descent Classifier
+# Gradient Descent Classifier
+
+
 
 ![image](https://user-images.githubusercontent.com/103538049/211833293-d6bce6be-5ae4-4444-ac5d-c547fcfe724d.png)
 
