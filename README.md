@@ -83,3 +83,21 @@ Customer's Demographic Columns – gender, age range, and if they have partners 
 2. Paperless Billing seems like one the reasons because of which customers are most likely to churn.
 3. The absence of online security, Paperless Billing system and services with no TechSupport were the similiar trend are of the customers who are most likely churn.
 4. Eventhough there's a small fraction of customers but it's better to point out as they are more likely to churn because don't have a phone service.
+
+
+![image](https://user-images.githubusercontent.com/103538049/211830628-e6144de7-a947-48fa-9542-7fcbf704a514.png)
+
+
+
+# Conclusion
+1. 75% of customer who have Month-to-Month Contract have opted to move out as compared to 13% of customers who have signed One Year Contract and 3% of customers who     have signed Two Year Contract.
+2. Majority of the customers who moved out were having Electronic Check as Payment Method and others who opted for Credit-Card automatic transfer / Bank Automatic       Transfer and Mailed Check as Payment Method were less likely to switch.
+3. Fiber optic service which was choosen by a lot of customers and it's evident that there's high churn rate among these customers. This could expose an issue in the     Fiber optic service which dissatisfied most of it's customers, further looking into the issue might find a better and apt solution.
+4. Customers who opted for DSL service are larger in number and is found to have less churn rate compared to Fibre optic service
+5. Customers without dependents and customers who have partners are more likely to churn while senior citizens being the most of churn.
+6. The absence of online security, Paperless Billing system and services with no TechSupport were the similiar trend are of the customers who are most likely churn.
+7. There's a small fraction of customers who are more likely to churn and it's been found that they don't have a phone service.
+8. High Monthly Charges are also one of a reason which makes Customers more likely to churn
+9. High Total Charges are also one of a reason which makes Customers more likely to churn,there might be an issue with pricing system which needs to addressed
+10. 
+
