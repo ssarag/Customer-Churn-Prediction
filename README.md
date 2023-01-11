@@ -43,3 +43,13 @@ Customer's Demographic Columns – gender, age range, and if they have partners 
 
 ![image](https://user-images.githubusercontent.com/103538049/211817683-ed57786b-4a71-4156-8c16-e14900b1632e.png)
 
+
+# Exploratory Data Analysis and data Visualization 
+
+![image](https://user-images.githubusercontent.com/103538049/211819245-249a32eb-d55e-4109-8d8f-250aed4b7b5c.png)
+
+
+1. 26.6% of current customers switched to another firm
+2. There are 49.5% females and 50.5% males.
+3. There's almost no difference between the gender who churned, as both men and women are churn in equal ratio.
+
