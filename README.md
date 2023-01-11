@@ -110,7 +110,7 @@ Before building the moels, it is important to check the data distribution. Becau
 # Machine Learning Models
 
 
-SUPPORT VECTOR CLASSIFIER (SVC)
+# *SUPPORT VECTOR CLASSIFIER (SVC)
 
 ![image](https://user-images.githubusercontent.com/103538049/211832115-103f14a4-1220-4d25-99b0-cce0abea7da8.png)
 
