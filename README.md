@@ -58,12 +58,18 @@ Customer's Demographic Columns – gender, age range, and if they have partners 
 
 ![image](https://user-images.githubusercontent.com/103538049/211822124-9bbaf3ab-622a-4ac5-8944-5ba3a031a35d.png)
 
+
+
+![image](https://user-images.githubusercontent.com/103538049/211822580-78f9b534-26de-4dc1-bb47-73f9a4c32fda.png)
+
+# Observations:
+
 1. Majority of the customers who moved out were having Electronic Check as Payment Method and others who opted for Credit-Card automatic transfer / Bank Automatic        Transfer and Mailed Check as Payment Method were less likely to switch.
 2. Fiber optic service was choosen by a lot of customers and a high churn rate among these customers. This could mean an issue with the Fiber optic service which and      its dissatisfaction among customers.
 3. Customers who opted for DSL service are greater in mumber and have less churn rate compared to Fibre optic service
-4. Customers without dependents are more likely to churn
+4. Customers without dependents are more likely to churn.
+5. Customers who have partners are more likely to churn while senior citizens being the most of churn.
 
-![image](https://user-images.githubusercontent.com/103538049/211822580-78f9b534-26de-4dc1-bb47-73f9a4c32fda.png)
 
 
 ![image](https://user-images.githubusercontent.com/103538049/211824267-1c247c0d-9420-4ebc-a380-beca78f81c0f.png)
@@ -71,3 +77,9 @@ Customer's Demographic Columns – gender, age range, and if they have partners 
 
 ![image](https://user-images.githubusercontent.com/103538049/211824522-c46cd587-baf5-4c5e-a9e2-714b9ae8d0f9.png)
 
+# Observations:
+
+1. Absence of online security,makes most customers churn.
+2. Paperless Billing seems like one the reasons because of which customers are most likely to churn.
+3. The absence of online security, Paperless Billing system and services with no TechSupport were the similiar trend are of the customers who are most likely churn.
+4. Eventhough there's a small fraction of customers but it's better to point out as they are more likely to churn because don't have a phone service.
