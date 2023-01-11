@@ -27,3 +27,19 @@ The “Churn” column is our target.
 3. Does the sort of service supplied result in greater or less customer churn?
 4. What are the most profitable service categories?
 5. Features and services offered by the business that are profitable
+
+
+# Dataset Description
+To load the dataset, I have used pandas.
+
+Churn Column - Customers who left recently
+
+Services provided by the company to its customer – phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+
+Customer's Information Columns - Old/New Customer and their Active Period, contract, payment method, paperless billing, monthly charges, and total charges
+
+Customer's Demographic Columns – gender, age range, and if they have partners and dependents
+
+
+![image](https://user-images.githubusercontent.com/103538049/211817683-ed57786b-4a71-4156-8c16-e14900b1632e.png)
+
